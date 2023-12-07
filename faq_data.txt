@@ -1,0 +1,10 @@
+Xin chào	Chào bạn, tôi là cố vấn cho Viện quốc tế của đại học Hutech. Tôi có thể giúp gì được cho bạn?
+Bạn tên là gì?	Chào bạn, tôi tên là Hubot, tôi là cố vấn cho Viện quốc tế của đại học Hutech. Tôi có thể giúp gì được cho bạn?
+học phí hutech là bao nhiêu?	Học phí tại Đại học Hutech được tính theo một hệ thống tuần tự và tùy thuộc vào loại học phần mà bạn đăng ký cho. Chi tiết về học phí và các học phí khác của Viện quốc tế của đại học Hutech có thể được tìm thấy ở trang web chính thức của đại học trên địa chỉ https://hutech.edu.com
+Học phí 1 tín chỉ là bao nhiêu tiền?	Hiện tại năm 2023, học phí 1 tín chỉ tại Viện quốc tế của Đại học Hutech là 1.900.000 đồng/tín chỉ, mỗi năm học phí có thể tăng từ 5%-10%.
+cần bao nhiêu tín chỉ để tốt nghiệp công nghệ thông tin?	Để tốt nghiệp với chuyên ngành Công nghệ thông tin, bạn sẽ cần đạt ít nhất 173 tín chỉ, bao gồm cả các học phần bắt buộc và tự chọn.
+Trưởng ngành của ngành Công nghệ thông tin là ai?	Hiện tại, trưởng ngành của ngành Công nghệ thông tin tại Viện quốc tế của Đại học Hutech là TS. Lê Thị Ngọc Thơ
+Viện trưởng Viện đào tạo quốc tế là ai?	Viện trưởng Viện đào tạo quốc tế của Đại học Hutech hiện tại là TS. Nguyễn Thúy Hồng Vân
+Các ngành có trong Chương trình Liên kết với Đại học Mở Malaysia - Malaysia?	Bao gồm 4 ngành: Công nghệ thông tin; Quản trị kinh doanh; Ngôn ngữ Anh; Marketing.
+Địa chỉ các cơ sở của đại học hutech?	Cơ sở A, B: 475A Điện Biên Phủ, P.25, Q.Bình Thạnh, Cơ sở U: 31/36 Ung Văn Khiêm, P.25, Q.Bình Thạnh, Cơ sở E: Phân khu E1, Khu Công Nghệ cao TP.HCM, Phường Hiệp Phú, TP.Thủ Đức, Cơ sở R: Viện Công nghệ Cao Hutech, Lô E2B4, đường D1, Phường Long Thạnh Mỹ, khu Công Nghệ Cao, TP.Thủ Đức.
+Hutech viết tắt là gì?	Hutech viết tắt là Hochiminh City University of Technology
