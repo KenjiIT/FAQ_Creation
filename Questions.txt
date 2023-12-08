@@ -5,10 +5,10 @@ Trưởng ngành của ngành Công nghệ thông tin là ai?
 Viện trưởng Viện đào tạo quốc tế là ai?
 Địa chỉ các cơ sở của đại học hutech?
 Các chương trình đào tạo có trong Viện Quốc Tế?
-Các ngành có trong Chương trình Chuẩn Quốc Tế?
-Các ngành có trong Chương trình Liên kết với Đại học Mở Malaysia - 
-Các ngành có trong Chương trình Liên kết với Đại học Lincoln - Hoa Kì?
-Các ngành có trong Chương trình Liên kết với Đại học CY CERGY PARIS - Pháp?
+Các ngành Chương trình Chuẩn Quốc Tế?
+Các ngành Đại học Mở Malaysia?
+Các ngành Đại học Lincoln - Hoa Kì?
+Các ngành Đại học CY CERGY PARIS - Pháp?
 Thời gian mà Chương trình Liên kết Đại học Mở Malaysia đào tạo là bao lâu?
 Học phí cho mỗi kì của Chương trình Liên kết Đại học Mở Malaysia là bao nhiêu?
 Thời gian mà Chương trình Liên kết Đại học Lincoln - Hoa Kì đào tạo là bao lâu?
@@ -32,15 +32,19 @@ Mã ngành của ngành Tài Chính - Ngân Hàng là gì?
 Khi tốt nghiệp ngành Tài Chính - Ngân Hàng, sinh viên sẽ nhận được bằng gì? 
 Các môn đại cương, sinh viên phải học trong ngành Tài Chính - Ngân Hàng là?
 Tổng số tín chỉ khi học ngành Tài Chính - Ngân Hàng?
-Các môn chuyên ngành tiêu biểu của ngành Tài Chính - Ngân Hàng?
+Tổng số tín chỉ ngành tài chính - ngân hàng là bao nhiêu?
+Tổng số tín chỉ tốt nghiệp ngành Tài Chính - Ngân Hàng?
+Tín chỉ tốt nghiệp ngành Tài Chính - Ngân Hàng?
+Các môn chuyên ngành tiêu biểu của ngành Tài Chính - Ngân Hàng? 
 Các tố chất mà sinh viên cần có khi học ngành Tài Chính - Ngân Hàng?
-Sau khi tốt nghiệp ngành Tài Chính - Ngân Hàng, sinh viên có thể đảm nhận các công việc gì?
+Sau khi tốt nghiệp ngành Tài Chính - Ngân Hàng, sinh viên có thể làm các công việc gì?
 Ngành Quản Trị Kinh Doanh là ngành gì?
 Ngành Quản Trị Kinh Doanh gồm các ngành chuyên sâu gì?
 Mã ngành của ngành Quản Trị Kinh Doanh là?
 Khi tốt nghiệp ngành Quản Trị Kinh Doanh, sinh viên sẽ nhận được bằng gì? 
 Các môn đại cương, sinh viên phải học trong ngành Quản Trị Kinh Doanh là?
 Tổng số tín chỉ khi học ngành Quản Trị Kinh Doanh?
+Ngành Quản Trị Kinh Doanh có bao nhiêu tín chỉ?
 Các môn chuyên ngành tiêu biểu của ngành Quản Trị Kinh Doanh?
 Các tố chất mà sinh viên cần có khi học ngành Quản Trị Kinh Doanh?
 Sau khi tốt nghiệp ngành Quản Trị Kinh Doanh, sinh viên có thể đảm nhận các công việc gì?
@@ -64,8 +68,9 @@ Sau khi tốt nghiệp ngành Quản trị dịch vụ du lịch & lữ hành, s
 Ngành Công nghệ Kỹ thuật Ô tô  là gì?
 Ngành Công nghệ Kỹ thuật Ô tô đào tạo các kiến thức tổng quan gì?
 Mã ngành của ngành Công nghệ Kỹ thuật Ô tô là?
-Khi tốt nghiệp ngành Công nghệ Kỹ thuật Ô tô, sinh viên sẽ nhận được Các môn đại cương, sinh viên phải học trong ngành Công nghệ Kỹ thuật Ô tô là?
-Tổng số tín chỉ khi học ngành Công nghệ Kỹ thuật Ô tô?
+Khi tốt nghiệp ngành Công nghệ Kỹ thuật Ô tô, sinh viên sẽ nhận được 
+Các môn đại cương sinh viên phải học trong ngành Công nghệ Kỹ thuật Ô tô là?
+Tổng số tín chỉ khi học ngành Công nghệ Kỹ thuật Ô tô gì?
 Các môn chuyên ngành tiêu biểu của ngành Công nghệ Kỹ thuật Ô tô?
 Các tố chất mà sinh viên cần có khi học ngành Công nghệ Kỹ thuật Ô tô?
 Sau khi tốt nghiệp ngành Công nghệ Kỹ thuật Ô tô, sinh viên có thể đảm nhận các công việc gì?
